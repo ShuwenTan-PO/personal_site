@@ -1,23 +1,28 @@
 ---
 # Display name
-title: Shuwen Tan (谭舒文)
+title: Shuwen Tan
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Research Scientist
+# role: Postdoctoral Research Scientist
+role: Postdoctoral Scholar
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Columbia University | Lamont-Doherty Earth Observatory
-  url: https://lamont.columbia.edu/
-
+# - name: Columbia University | Lamont-Doherty Earth Observatory
+#   url: https://lamont.columbia.edu/
+- name: Costal Dynamics Lab | University of California, Irvine
+  url: https://faculty.sites.uci.edu/davis/
+  
 # Short bio (displayed in user profile at end of posts)
-bio: Human oceanographer
+bio: Physical Oceanographer
 
 # Interests to show in About widget
 interests:
+- Internal Waves
+- Coastal Oceanography
 - Flow over Topography
 - Deep Ocean Circulation
 - Data-driven Analysis
@@ -70,12 +75,14 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "shuwent at ldeo dot columbia dot edu"
+# email: "shuwent at ldeo dot columbia dot edu"
+email: "s dot tan at uci dot edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
 
-Shuwen Tan is a US GO-SHIP Postdoctoral Fellow at the Lamont-Doherty Earth Observatory of Columbia University. She is broadly interested in physical processes in the Earth's Oceans. 
+<!-- Shuwen Tan is a US GO-SHIP Postdoctoral Fellow at the Lamont-Doherty Earth Observatory of Columbia University. She is broadly interested in physical processes in the Earth's Oceans.  -->
+Shuwen Tan （谭舒文） is a Postdoctoral Scholar at UC, Irvine. In the past, she was heavily engaged in developing rotating hydraulic theories and interpreting observations of deep (water depth >2000 m sometimes >5000 m) ocean sill overflows. Her project at UCI, however, focuses on exciting behaviors of nonlinear waves approaching an island (Dongsha Atoll, 2 m ~ 600 m) using modeling approaches. So she is currently transitioning from an observationalist to a modeler and happy to continue playing with waves.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Tan_CV_202206.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Tan_CV_202306.pdf" "newtab" >}}CV{{< /staticref >}}.
