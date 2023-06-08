@@ -9,8 +9,8 @@ header:
   image: ""
 ---
 
-I have guest-taught the following courses:
+<!-- I have guest-taught the following courses:
 \\
 [Columbia University 2022 fall course EESCGU4925, intro to Physical Oceanography](https://shuwentan-po.github.io/intro_PO/intro.html)
 \\
-UCI 2023 spring course CEE 21, Computational Problem Solving
+UCI 2023 spring course CEE 21, Computational Problem Solving -->
