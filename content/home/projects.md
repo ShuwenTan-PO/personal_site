@@ -25,8 +25,8 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-  - name: Nonlinear internal waves
-    tag: Nonlinear internal waves
+  - name: Nonlinear Internal Waves
+    tag: Nonlinear Internal Waves
   - name: Deep Ocean Change
     tag: Deep Ocean Change
   - name: Rotating Hydraulics
