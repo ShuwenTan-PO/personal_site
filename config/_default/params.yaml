@@ -20,18 +20,30 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: shuwent@ldeo.columbia.edu
+# email: shuwent@ldeo.columbia.edu
+# address:
+#   street: 61 Route 9W
+#   city: Palisades
+#   region: NY
+#   postcode: '10964'
+#   country: United States
+#   country_code: US
+# coordinates:
+#   latitude: '41.0042'
+#   longitude: '-73.9053'
+# directions: Oceanography Building, 204
+email: s.tan@uci.edu
 address:
-  street: 61 Route 9W
-  city: Palisades
-  region: NY
-  postcode: '10964'
+  street: 415 E Peltason Dr 
+  city: Irvine
+  region: CA
+  postcode: '92617'
   country: United States
   country_code: US
 coordinates:
-  latitude: '41.0042'
-  longitude: '-73.9053'
-directions: Oceanography Building, 204
+  latitude: '33.64227219217323'
+  longitude: '-117.84481220309225'
+directions: Multipurpose Science and Technology Building, 3402
 
 # Site header
 
