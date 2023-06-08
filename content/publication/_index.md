@@ -1,29 +1,23 @@
 ---
-title: "Hydraulic control of flow in a multi-passage system connecting two basins"
+title: "On the global decrease in the deep and abyssal density stratification along the spreading pathways of Antarctic Bottom Water since the 1990s"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- L. J. Pratt
-- G. Voet
-- J. M. Cusack
-- K. Helfrich
-- M. H. Alford
-- J. B. Girton
-- G. S. Carter
+- A. M. Thurnherr
 
 # # Author notes (optional)
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2022-04-05T00:00:00Z"
-doi: "https://doi.org/10.1017/jfm.2022.212"
+date: "2023-06-05T00:00:00Z"
+doi: "https://doi.org/10.1029/2022GL102422"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-04-05T00:00:00Z"
+publishDate: "2023-06-05T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -32,10 +26,10 @@ publishDate: "2022-04-05T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Journal of Fluid Mechanics #Under Review by *Journal of Fluid Mechanics*
-publication_short: JFM #Under Review by *JFM*
+publication: Geophysical Research Letters
+publication_short: GRL
 
-abstract: Rotating hydraulic theory for flow in a multi-passage system
+abstract: Averaged south of 60°S, the squared buoyancy frequency N2 shows a negative trend of −6% per decade in waters deeper than 4,000 m.
 
 # # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -72,7 +66,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- SP
+- N2change
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
