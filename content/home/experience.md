@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Postdoctoral Scholar
-    company: Department of Civil & Environmental Engineering, University of California, Irvine
+    company: University of California, Irvine
     # company_url: ''
     # company_logo: org-gc
     location: Irvine, CA, USA
