@@ -37,7 +37,7 @@ experience:
     location: New York, NY, USA
     date_start: '2021-04-05'
     date_end: '2022-12-08'
-    description: [US GO-SHIP](https://usgoship.ucsd.edu/) Postdoctoral Fellow
+    description: US GO-SHIP Postdoctoral Fellow
         
   - title: Graduate Research Assistant
     company: Institute of Oceanology, Chinese Academy of Sciences
