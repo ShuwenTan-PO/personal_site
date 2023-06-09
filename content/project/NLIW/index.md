@@ -2,7 +2,7 @@
 title: Refraction and Reflection of Nonlinear Internal Waves from Steep Topography
 summary: US ONR sponsored project.
 tags:
-- Nonlinear internal waves
+- Nonlinear Internal Waves
 date: "2023-06-08T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
