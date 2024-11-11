@@ -22,13 +22,29 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Assistant Professor
+    company: Department of Marine Sciences, University of Connecticut
+    # company_url: ''
+    # company_logo: org-gc
+    location: Groton, CT, USA
+    date_start: '2025-01-01'
+    date_end: ''
+
+  - title: Postdoctoral Scholar
+    company: Oceans Department, Stanford University
+    # company_url: ''
+    # company_logo: org-gc
+    location: Stanford, CA, USA
+    date_start: '2024-07-01'
+    date_end: '2024-12-31'
+
   - title: Postdoctoral Scholar
     company: University of California, Irvine
     # company_url: ''
     # company_logo: org-gc
     location: Irvine, CA, USA
     date_start: '2022-12-12'
-    date_end: ''
+    date_end: '2024-06-30'
 
   - title: Postdoctoral Research Scientist
     company: Lamont-Doherty Earth Observatory of Columbia University

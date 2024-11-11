@@ -32,18 +32,31 @@ twitter: ''
 #   latitude: '41.0042'
 #   longitude: '-73.9053'
 # directions: Oceanography Building, 204
-email: s.tan@uci.edu
+# email: s.tan@uci.edu
+# address:
+#   street: 415 E Peltason Dr 
+#   city: Irvine
+#   region: CA
+#   postcode: '92617'
+#   country: United States
+#   country_code: US
+# coordinates:
+#   latitude: '33.64227219217323'
+#   longitude: '-117.84481220309225'
+# directions: Multipurpose Science and Technology Building, 3402
+
+email: shuwen.tan@uconn.edu
 address:
-  street: 415 E Peltason Dr 
-  city: Irvine
-  region: CA
-  postcode: '92617'
+  street: 1080 Shennecossett Road
+  city: Groton
+  region: CT
+  postcode: '06340'
   country: United States
   country_code: US
 coordinates:
-  latitude: '33.64227219217323'
-  longitude: '-117.84481220309225'
-directions: Multipurpose Science and Technology Building, 3402
+  latitude: '41.316319371449474'
+  longitude: '-72.06270646846694'
+directions: UConn Marine Sciences
 
 # Site header
 
